@@ -1,3 +1,5 @@
+/***************** Tag Selector *************/
+
 body {
   background-color: green;
 }
@@ -16,3 +18,8 @@ h1 {
 h3 {
   color: #66BFBF;
 }
+
+/************ Class Selector for the whole class, multiple uses*********/
+
+
+/************ id Selector for a single use **********/
